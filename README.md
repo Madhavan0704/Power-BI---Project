@@ -18,4 +18,6 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 - **Repeat Rate**: The percentage of customers who return to make another purchase.
 - **Purchase Frequency**: How often customers place orders, on average
 
+## Charts Requirements
+
 
