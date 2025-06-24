@@ -5,6 +5,6 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 ## KPI’s Requirements
 -Transactions Performance: This section focuses on evaluating the overall health and effectiveness of sales operations by tracking.
 
-            -**Net Sales**: Total revenue generated before tax.
-            -**Total Quantity**: The cumulative number of products sold.
-            -**Net Avg Order Value**: The average revenue per transaction, excluding tax
+            -Net Sales: Total revenue generated before tax.
+            -Total Quantity: The cumulative number of products sold.
+            -Net Avg Order Value: The average revenue per transaction, excluding tax
