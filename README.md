@@ -9,7 +9,7 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 - **Net Avg Order Value**: The average revenue per transaction, excluding tax
 
 ### Customer Purchase Behavior: Understanding how customers interact with the business is critical. This section highlights.
-- **Total Customers **: The count of unique buyers.
-- **Single Order Customers **: Customers who placed only one order.
-- **Repeat Customers **: Customers with more than one order, indicating loyalty
+- **Total Customers**: The count of unique buyers.
+- **Single Order Customers**: Customers who placed only one order.
+- **Repeat Customers**: Customers with more than one order, indicating loyalty
 
