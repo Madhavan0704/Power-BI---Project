@@ -31,5 +31,24 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 - **Sorted**: Descending order by selected measure.
 - **Dynamic**: Interacts with slicers/filters and responds to the KPI selector.
 
+  ## Charts Requirements: Sales Trend Over Time
+### Area Chart – Trend by Day: 
+- **Purpose**: Show the **daily trend** of the selected measure (e.g., daily Net Sales or daily Repeat Customers).
+- **Interactivity**: Changes dynamically based on the selected measure.
+### Bar Chart or Line Chart – Trend by Hour: 
+- **Purpose**: Display **sales or customer activity by hour of the day** (e.g., 0–23 hrs), revealing peak activity periods.
+- **Use Case**: Helps understand time-of-day behavior, useful for marketing or operational timing decisions.
+### Bar Chart (City-Level Performance): 
+- **Purpose**: Compare **top-performing cities** based on the selected KPI.
+- **Sorted**: Descending order by selected measure.
+- **Dynamic**: Interacts with slicers/filters and responds to the KPI selector.
+### Gateway Payment Method
+- Identify the **most and least used payment methods**.
+- Detect **customer preferences** across regions or campaigns.
+### Product Type
+- Determine which **product types generate the highest revenue and order volume**.
+- Understand how **customer engagement varies** across different product categories.
+
+
 
 
