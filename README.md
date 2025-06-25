@@ -49,6 +49,13 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 - Determine which **product types generate the highest revenue and order volume**.
 - Understand how **customer engagement varies** across different product categories.
 
+## Final Conclusion:
+- Provide a **dedicated page** to display transaction-level or detailed data.
+- Allow users to **drill through** from summary visuals (like charts and KPIs) to see underlying records.
+- Enable users to explore data at a **granular level**, such as individual orders, customers, or product types.
+- Help explain **summary trends** and **validate aggregated metrics** with raw data.
+
+
 
 
 
