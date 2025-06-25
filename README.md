@@ -31,7 +31,7 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 - **Sorted**: Descending order by selected measure.
 - **Dynamic**: Interacts with slicers/filters and responds to the KPI selector.
 
-  ## Charts Requirements: Sales Trend Over Time
+## Charts Requirements: Sales Trend Over Time
 ### Area Chart – Trend by Day: 
 - **Purpose**: Show the **daily trend** of the selected measure (e.g., daily Net Sales or daily Repeat Customers).
 - **Interactivity**: Changes dynamically based on the selected measure.
